@@ -1,1 +1,1 @@
-This is the first line in text02.txt
+this is the modified text02
